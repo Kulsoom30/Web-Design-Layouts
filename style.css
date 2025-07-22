@@ -1,7 +1,4 @@
-/* *{
-    margin: 0;
-    padding: 0;
-} */
+
  @font-face
 {
   font-family: 'DMSans';
@@ -294,7 +291,7 @@ object-fit: cover;
     padding-top: 0.6rem;
     color: black;
 }
-@media(max-width:600px) {
+@media(max-width:400px) {
 .container{
 display: flex;
 flex-wrap: wrap;
